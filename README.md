@@ -18,7 +18,7 @@ Eg output format:
   {"id":1,"title":"excellent phone , excellent service .",
     "sentences":[
       {"id":"1_1","text":"i am a business user who heavily depend on mobile service .","features":[]},
-      {"id":"1_2","text":"there is much which has been said in other reviews about the features of this phone",
+      {"id":"1_2","text":"there is much which has been said in other reviews about the features of this phone, it is a great phone , mine worked without any problems right out of the box . ",
       "features":[
         {"id":"1_2_1","name":"phone","opinion":"+3","u":false,"p":false},
         {"id":"1_2_2","name":" work","opinion":"+2","u":false,"p":false}]}
